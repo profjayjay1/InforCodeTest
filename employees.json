@@ -1,0 +1,21 @@
+
+{
+    "Staff":{
+        "CEO":"Jeff",
+        "Employees": {
+                        "Manager_1":"Dave",
+                        "Hires":{
+                            "Staff_1":"Andy",
+                            "Staff_2":"Dan",
+                            "Staff_3":"Jason",
+                            "Staff_4":"Rick",
+                            "Staff_5":"Suzanne"
+                        },
+                        "Manager_2":"Cory"
+                      
+                     }
+    },
+    "Salary":"$552,000"
+}
+
+
